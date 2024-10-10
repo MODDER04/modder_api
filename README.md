@@ -1,7 +1,7 @@
 # API Documentation
 
 ## Base URL
-The url will be sent when you buy a key
+The url will be sent when you buy a key from @modder04
 ---
 
 ### 1. Create Call
